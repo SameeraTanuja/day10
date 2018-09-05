@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\lpilaka\Documents\Web Development\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3580654581.index
+308648699.index
+1346210563.index
+636160177.index
+4007806187.index
+2189173978.index
+3054975473.index
+54703828.index
